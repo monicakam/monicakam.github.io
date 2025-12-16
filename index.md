@@ -5,6 +5,6 @@ title: Home
 
 # Monica
 
-Writer | Author | Writer | Author
+Writer 
 
 Welcome ~
